@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600&family=Poppins:wght@500;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+:root{
+    --contcolor:box-shadow: 10px 10px 10px -1px rgba(10,99,169,0.16),
+    -10px -10px 10px -1px rgba(255,255,255,0.70);
+    --btncolor:#ecf0f3;
+}
+body{
+    background: var(--btncolor);
+}
+.main{
+    width: 300px;
+    height: 350px;
+    background: #ebeef1;
+    border-radius: 10px;
+    margin-left: 550px;
+    margin-top: 150px;
+    border: 1px solid #dfdfdf;
+    box-shadow: 10px 10px 10px -1px rgba(10,99,169,0.16),
+    -10px -10px 10px -1px rgba(255,255,255,0.70);
+    
+}
+#inp{
+    margin-left: 17%;
+    margin-top: 10%;
+    height: 40px;
+    padding: 10px;
+    border: 1px solid #dfdfdf;
+}
+.box-1{
+margin-left: 17%;
+margin-top: 5%;
+
+}
+.box-1 input{
+    width: 45px;
+    cursor: pointer;
+    height: 35px;
+    background: #ebeef1;
+    border: 1px solid #dfdfdf;
+    box-shadow: 10px 10px 10px -1px rgba(10,99,169,0.16),
+-10px -10px 10px -1px rgba(255,255,255,0.70);
+border-radius: 7px;
+}
+.box-2{
+    margin-left: 17%;
+    margin-top: 5%;
+
+    }
+    .box-2 input{
+        width: 45px;
+        cursor: pointer;
+        height: 35px;
+        background: #ebeef1;
+        border: 1px solid #dfdfdf;
+        box-shadow: 10px 10px 10px -1px rgba(10,99,169,0.16),
+        -10px -10px 10px -1px rgba(255,255,255,0.70);
+        border-radius: 7px;
+    }
+    .box-3{
+        margin-left: 17%;
+        margin-top: 5%;
+        }
+        .box-3 input{
+            width: 45px;
+            cursor: pointer;
+            height: 35px;
+            background: #ebeef1;
+            border: 1px solid #dfdfdf;
+            box-shadow: 10px 10px 10px -1px rgba(10,99,169,0.16),
+            -10px -10px 10px -1px rgba(255,255,255,0.70);
+            border-radius: 7px;
+        }
+        .box-4{
+            margin-left: 17%;
+            margin-top: 5%;
+            }
+            .box-4 input{
+                width: 45px;
+                cursor: pointer;
+                height: 35px;
+                background: #ebeef1;
+                border: 1px solid #dfdfdf;
+                box-shadow: 10px 10px 10px -1px rgba(10,99,169,0.16),
+                -10px -10px 10px -1px rgba(255,255,255,0.70);
+                border-radius: 7px;
+            }
+            .box-5{
+                margin-left: 17%;
+                margin-top: 5%;
+                }
+                .box-5 input{
+                    width: 45px;
+                    cursor: pointer;
+                    height: 35px;
+                    background: #ebeef1;
+                    border: 1px solid #dfdfdf;
+                    box-shadow: 10px 10px 10px -1px rgba(10,99,169,0.16),
+                    -10px -10px 10px -1px rgba(255,255,255,0.70);
+                    border-radius: 7px;
+                }
+            
